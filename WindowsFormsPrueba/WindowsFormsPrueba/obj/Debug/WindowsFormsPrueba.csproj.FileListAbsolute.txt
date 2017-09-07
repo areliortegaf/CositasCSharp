@@ -1,0 +1,10 @@
+c:\users\asortega\source\repos\WindowsFormsPrueba\WindowsFormsPrueba\bin\Debug\WindowsFormsPrueba.exe.config
+c:\users\asortega\source\repos\WindowsFormsPrueba\WindowsFormsPrueba\bin\Debug\WindowsFormsPrueba.exe
+c:\users\asortega\source\repos\WindowsFormsPrueba\WindowsFormsPrueba\bin\Debug\WindowsFormsPrueba.pdb
+c:\users\asortega\source\repos\WindowsFormsPrueba\WindowsFormsPrueba\obj\Debug\WindowsFormsPrueba.csprojResolveAssemblyReference.cache
+c:\users\asortega\source\repos\WindowsFormsPrueba\WindowsFormsPrueba\obj\Debug\WindowsFormsPrueba.Form1.resources
+c:\users\asortega\source\repos\WindowsFormsPrueba\WindowsFormsPrueba\obj\Debug\WindowsFormsPrueba.Properties.Resources.resources
+c:\users\asortega\source\repos\WindowsFormsPrueba\WindowsFormsPrueba\obj\Debug\WindowsFormsPrueba.csproj.GenerateResource.Cache
+c:\users\asortega\source\repos\WindowsFormsPrueba\WindowsFormsPrueba\obj\Debug\WindowsFormsPrueba.csproj.CoreCompileInputs.cache
+c:\users\asortega\source\repos\WindowsFormsPrueba\WindowsFormsPrueba\obj\Debug\WindowsFormsPrueba.exe
+c:\users\asortega\source\repos\WindowsFormsPrueba\WindowsFormsPrueba\obj\Debug\WindowsFormsPrueba.pdb
